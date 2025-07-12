@@ -1,0 +1,7 @@
+﻿services:
+  alecsitebackend:
+    image: alecsitebackend
+    build:
+      context: .
+      dockerfile: Dockerfile
+
