@@ -1,6 +1,0 @@
-@AlecSiteBackend_HostAddress = http://localhost:5018
-
-GET {{AlecSiteBackend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
